@@ -1,3 +1,5 @@
+#RA251_STEPCLASSES
+
 All weeks the indivisual weeks have been uploaded in their respective branches Refer to the branches for the respective assignments Kindly take Master as week1 and then after that take according to the branch names
 
 UC1: Application Entry & Welcome Message Goal: Display a welcome message and app details at startup.
